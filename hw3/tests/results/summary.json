@@ -1,0 +1,151 @@
+{
+  "passed": 29,
+  "total": 29,
+  "cases": [
+    {
+      "backend": "named",
+      "name": "пять философов",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "два философа",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "нагрузка без пауз",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "параллельная еда",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "конечный лимит времени",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "бесконечный режим с лимитом",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "предел ожидания",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "SIGINT",
+      "passed": true
+    },
+    {
+      "backend": "named",
+      "name": "SIGTERM",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "пять философов",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "два философа",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "нагрузка без пауз",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "параллельная еда",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "конечный лимит времени",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "бесконечный режим с лимитом",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "предел ожидания",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "SIGINT",
+      "passed": true
+    },
+    {
+      "backend": "unnamed",
+      "name": "SIGTERM",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "пять философов",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "два философа",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "нагрузка без пауз",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "параллельная еда",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "конечный лимит времени",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "бесконечный режим с лимитом",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "предел ожидания",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "SIGINT",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "SIGTERM",
+      "passed": true
+    },
+    {
+      "backend": "independent",
+      "name": "SIGINT ожидающему философу",
+      "passed": true
+    },
+    {
+      "backend": "all",
+      "name": "ошибочные параметры",
+      "passed": true
+    }
+  ]
+}
